@@ -1,0 +1,52 @@
+h5 {
+    color: white;
+    background-color: darkolivegreen;
+    padding: 5px;
+}
+
+p {
+    color: mediumblue;
+    background-color: mediumspringgreen;
+    padding: 5px;
+}
+
+nav {
+    background-color: lightseagreen;
+    padding: 20px !important;
+    font-size: 2rem;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.card {
+    background-color: lightskyblue;
+    border-color: blue;
+    border-width: 2px;
+}
+
+.card .btn {
+    color: black;
+    background-color: lime;
+    border-width: 3px;
+}
+
+.nav-link {
+    color: yellow;
+    background-color: lightgreen;
+    border-radius: 25%;
+}
+
+.navbar-brand img {
+    height: 75px;
+}
+
+.carousel {
+    height: 50rem;
+    overflow: hidden;
+}
+
+.nav-link.active {
+    color: green;
+}
